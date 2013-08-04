@@ -1,4 +1,1 @@
-superwatcher.demo
-=================
-
-A really simple demo repository to show super watcher hooks
+Go see (superwatcher)[https://github.com/wballard/superwatcher]
