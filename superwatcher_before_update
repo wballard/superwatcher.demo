@@ -1,0 +1,4 @@
+#! /usr/bin/env bash
+# this won't do much unless you have this program installed
+# but if you do, then it'll notify. cool
+terminal-notifier -message 'Before Hook'
